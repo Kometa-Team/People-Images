@@ -1,0 +1,39 @@
+name: Update-Readmes
+
+on:
+  workflow_dispatch:
+  push:
+  pull_request:
+
+jobs:
+  Update-Readmes:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Check Out Auto Readme Repo
+        uses: actions/checkout@v3
+        with:
+          repository: meisnate12/Plex-Meta-Manager-People-Auto-Readme
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Check Out Images Repo
+        uses: actions/checkout@v3
+        with:
+          path: imagerepo
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10.x"
+
+      - name: Run Update Readmes
+        run: python auto_readme.py -d "imagerepo"
+
+      - name: Commit & Push Changes
+        working-directory: ./imagerepo
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "Readme Update" -a
+          git push origin master
