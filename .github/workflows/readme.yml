@@ -13,7 +13,7 @@ jobs:
       - name: Check Out Auto Readme Repo
         uses: actions/checkout@v4
         with:
-          repository: meisnate12/Plex-Meta-Manager-People-Auto-Readme
+          repository: Kometa-Team/People-Auto-Readme
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Check Out Images Repo
