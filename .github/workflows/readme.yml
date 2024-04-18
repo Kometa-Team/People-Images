@@ -49,3 +49,18 @@ jobs:
           git add -A
           git commit -m "Readme Update" -a
           git push origin master
+
+      - name: Discord Failure Notification
+        uses: meisnate12/discord-notifications@master
+        if: failure()
+        with:
+          webhook_id: ${{ secrets.BUILD_WEBHOOK_ID }}
+          webhook_token: ${{ secrets.BUILD_WEBHOOK_TOKEN }}
+          message: <@&1079153184007790652>
+          title: "People Images: **Failure**"
+          color: 16106776
+          url: https://github.com/Kometa-Team/People-Images/actions/runs/${{ github.run_id }}
+          username: Metabot
+          avatar_url: https://raw.githubusercontent.com/Kometa-Team/Kometa/nightly/.github/logo.png
+          author: IMDb Awards
+          author_icon_url: https://raw.githubusercontent.com/Kometa-Team/Kometa/nightly/.github/git.png
