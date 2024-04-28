@@ -1,4 +1,4 @@
-# Kometa People Images - Original - B (451 Images)
+# Kometa People Images - Original - B (452 Images)
 ![Grid](grid.jpg)
 
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/B/Images/B.J.%20Penn.jpg)
@@ -13,6 +13,7 @@
 * [Baltasar Kormákur](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/B/Images/Baltasar%20Korm%C3%A1kur.jpg)
 * [Bam Margera](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/B/Images/Bam%20Margera.jpg)
 * [Bambadjan Bamba](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/B/Images/Bambadjan%20Bamba.jpg)
+* [Barack Obama](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/B/Images/Barack%20Obama.jpg)
 * [Barbara Bouchet](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/B/Images/Barbara%20Bouchet.jpg)
 * [Barbara Broccoli](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/B/Images/Barbara%20Broccoli.jpg)
 * [Barbara Carrera](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/B/Images/Barbara%20Carrera.jpg)
