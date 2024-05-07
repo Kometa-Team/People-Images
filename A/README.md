@@ -1,4 +1,4 @@
-# Kometa People Images - Original - A (733 Images)
+# Kometa People Images - Original - A (734 Images)
 ![Grid](grid.jpg)
 
 * [Aamir Khan](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/A/Images/Aamir%20Khan.jpg)
@@ -134,6 +134,7 @@
 * [Aki Kaurismäki](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/A/Images/Aki%20Kaurism%C3%A4ki.jpg)
 * [Akie Kotabe](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/A/Images/Akie%20Kotabe.jpg)
 * [Akiel Julien](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/A/Images/Akiel%20Julien.jpg)
+* [Akiko Yajima](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/A/Images/Akiko%20Yajima.jpg)
 * [Akin Gazi](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/A/Images/Akin%20Gazi.jpg)
 * [Akira Akbar](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/A/Images/Akira%20Akbar.jpg)
 * [Akira Kurosawa](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/A/Images/Akira%20Kurosawa.jpg)
