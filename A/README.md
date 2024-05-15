@@ -1,4 +1,4 @@
-# Kometa People Images - Original - A (737 Images)
+# Kometa People Images - Original - A (738 Images)
 ![Grid](grid.jpg)
 
 * [Aamir Khan](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/A/Images/Aamir%20Khan.jpg)
@@ -216,6 +216,7 @@
 * [Alessandro Borghi](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/A/Images/Alessandro%20Borghi.jpg)
 * [Alessandro Nivola](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/A/Images/Alessandro%20Nivola.jpg)
 * [Alex Brightman](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/A/Images/Alex%20Brightman.jpg)
+* [Alex Edelman](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/A/Images/Alex%20Edelman.jpg)
 * [Alex Ferns](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/A/Images/Alex%20Ferns.jpg)
 * [Alex Garcia](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/A/Images/Alex%20Garcia.jpg)
 * [Alex Garland](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/A/Images/Alex%20Garland.jpg)
