@@ -1,4 +1,4 @@
-# Kometa People Images - Original - O (79 Images)
+# Kometa People Images - Original - O (80 Images)
 ![Grid](grid.jpg)
 
 * [O'Shea Jackson Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/O%27Shea%20Jackson%20Jr..jpg)
@@ -9,6 +9,7 @@
 * [Odessa Young](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/Odessa%20Young.jpg)
 * [Odette Annable](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/Odette%20Annable.jpg)
 * [Odeya Rush](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/Odeya%20Rush.jpg)
+* [Oh Eui-sik](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/Oh%20Eui-sik.jpg)
 * [Oh Young-soo](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/Oh%20Young-soo.jpg)
 * [Okieriete Onaodowan](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/Okieriete%20Onaodowan.jpg)
 * [Olalla Hernández](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/Olalla%20Hern%C3%A1ndez.jpg)
