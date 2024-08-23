@@ -1,4 +1,4 @@
-# Kometa People Images - Original - O (80 Images)
+# Kometa People Images - Original - O (81 Images)
 ![Grid](grid.jpg)
 
 * [O'Shea Jackson Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/O%27Shea%20Jackson%20Jr..jpg)
@@ -73,6 +73,7 @@
 * [Oscar Pearce](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/Oscar%20Pearce.jpg)
 * [Ottaviano Dell'Acqua](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/Ottaviano%20Dell%27Acqua.jpg)
 * [Otto Farrant](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/Otto%20Farrant.jpg)
+* [Otto Preminger](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/Otto%20Preminger.jpg)
 * [Otto Sanchez](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/Otto%20Sanchez.jpg)
 * [Ove Sprogøe](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/Ove%20Sprog%C3%B8e.jpg)
 * [Owain Arthur](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/Owain%20Arthur.jpg)
