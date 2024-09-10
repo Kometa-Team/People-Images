@@ -1,4 +1,4 @@
-# Kometa People Images - Original - M (870 Images)
+# Kometa People Images - Original - M (871 Images)
 ![Grid](grid.jpg)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
@@ -767,6 +767,7 @@
 * [Mike Starr](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/M/Images/Mike%20Starr.jpg)
 * [Mike Troll](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/M/Images/Mike%20Troll.jpg)
 * [Mike Vogel](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/M/Images/Mike%20Vogel.jpg)
+* [Mike White](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/M/Images/Mike%20White.jpg)
 * [Mikhail Gorevoy](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/M/Images/Mikhail%20Gorevoy.jpg)
 * [Miki Esparbé](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/M/Images/Miki%20Esparb%C3%A9.jpg)
 * [Mikkel Boe Følsgaard](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/M/Images/Mikkel%20Boe%20F%C3%B8lsgaard.jpg)
