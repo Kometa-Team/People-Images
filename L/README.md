@@ -1,4 +1,4 @@
-# Kometa People Images - Original - L (402 Images)
+# Kometa People Images - Original - L (403 Images)
 ![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/L/Images/L.%20Q.%20Jones.jpg)
@@ -335,6 +335,7 @@
 * [Louise Lombard](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/L/Images/Louise%20Lombard.jpg)
 * [Lowell Cunningham](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/L/Images/Lowell%20Cunningham.jpg)
 * [Lowell Dean](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/L/Images/Lowell%20Dean.jpg)
+* [Lowell Ganz](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/L/Images/Lowell%20Ganz.jpg)
 * [Loyiso Gola](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/L/Images/Loyiso%20Gola.jpg)
 * [Luc Besson](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/L/Images/Luc%20Besson.jpg)
 * [Luc Dardenne](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/L/Images/Luc%20Dardenne.jpg)
