@@ -1,4 +1,4 @@
-# Kometa People Images - Original - V (110 Images)
+# Kometa People Images - Original - V (111 Images)
 ![Grid](grid.jpg)
 
 * [V.J. Foster](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/V/Images/V.J.%20Foster.jpg)
@@ -30,6 +30,7 @@
 * [Varley Thomas](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/V/Images/Varley%20Thomas.jpg)
 * [Venantino Venantini](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/V/Images/Venantino%20Venantini.jpg)
 * [Vera Farmiga](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/V/Images/Vera%20Farmiga.jpg)
+* [Vera Glagoleva](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/V/Images/Vera%20Glagoleva.jpg)
 * [Vera Vitali](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/V/Images/Vera%20Vitali.jpg)
 * [Verne Troyer](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/V/Images/Verne%20Troyer.jpg)
 * [Vernon Dobtcheff](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/V/Images/Vernon%20Dobtcheff.jpg)

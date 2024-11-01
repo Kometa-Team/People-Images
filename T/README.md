@@ -1,4 +1,4 @@
-# Kometa People Images - Original - T (459 Images)
+# Kometa People Images - Original - T (460 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/T.%20J.%20Miller.jpg)
@@ -228,6 +228,7 @@
 * [Tina Fey](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Tina%20Fey.jpg)
 * [Tina Parker](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Tina%20Parker.jpg)
 * [Tine Joustra](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Tine%20Joustra.jpg)
+* [Tino Insana](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Tino%20Insana.jpg)
 * [Tinto Brass](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Tinto%20Brass.jpg)
 * [Tipper Seifert-Cleveland](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Tipper%20Seifert-Cleveland.jpg)
 * [Tisa Farrow](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Tisa%20Farrow.jpg)
