@@ -1,4 +1,4 @@
-# Kometa People Images - Original - B (477 Images)
+# Kometa People Images - Original - B (478 Images)
 ![Grid](grid.jpg)
 
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/B/Images/B.J.%20Penn.jpg)
@@ -9,6 +9,7 @@
 * [Bad Bunny](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/B/Images/Bad%20Bunny.jpg)
 * [Bae Doo-na](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/B/Images/Bae%20Doo-na.jpg)
 * [Bae Doona](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/B/Images/Bae%20Doona.jpg)
+* [Baek Min-hyun](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/B/Images/Baek%20Min-hyun.jpg)
 * [Bailee Madison](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/B/Images/Bailee%20Madison.jpg)
 * [Baltasar Kormákur](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/B/Images/Baltasar%20Korm%C3%A1kur.jpg)
 * [Bam Margera](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/B/Images/Bam%20Margera.jpg)
