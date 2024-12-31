@@ -1,4 +1,4 @@
-# Kometa People Images - Original - D (616 Images)
+# Kometa People Images - Original - D (617 Images)
 ![Grid](grid.jpg)
 
 * [D.B. Woodside](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/D.B.%20Woodside.jpg)
@@ -519,6 +519,7 @@
 * [Don Hahn](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Don%20Hahn.jpg)
 * [Don Hall](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Don%20Hall.jpg)
 * [Don Heck](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Don%20Heck.jpg)
+* [Don Hertzfeldt](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Don%20Hertzfeldt.jpg)
 * [Don Johnson](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Don%20Johnson.jpg)
 * [Don Mancini](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Don%20Mancini.jpg)
 * [Don Messick](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Don%20Messick.jpg)
