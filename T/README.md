@@ -1,4 +1,4 @@
-# Kometa People Images - Original - T (466 Images)
+# Kometa People Images - Original - T (467 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/T.%20J.%20Miller.jpg)
@@ -351,6 +351,7 @@
 * [Tommy Lee Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Tommy%20Lee%20Jones.jpg)
 * [Tommy Lister Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Tommy%20Lister%20Jr..jpg)
 * [Tommy Little](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Tommy%20Little.jpg)
+* [Tommy O'Haver](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Tommy%20O%27Haver.jpg)
 * [Tommy Wirkola](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Tommy%20Wirkola.jpg)
 * [Tomoaki Maeno](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Tomoaki%20Maeno.jpg)
 * [Tomokazu Seki](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Tomokazu%20Seki.jpg)
