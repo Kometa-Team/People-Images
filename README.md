@@ -1,4 +1,4 @@
-# Kometa People Images - Original (11042 Images)
+# Kometa People Images - Original (11043 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -8027,7 +8027,7 @@
 * [Nyasha Hatendi](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/N/Images/Nyasha%20Hatendi.jpg)
 * [Nydia Rodriguez Terracina](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/N/Images/Nydia%20Rodriguez%20Terracina.jpg)
 </details>
-<details><summary><a href="O">O (95 Images)</a></summary>
+<details><summary><a href="O">O (96 Images)</a></summary>
 
 * [O'Shea Jackson Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/O%27Shea%20Jackson%20Jr..jpg)
 * [O.T. Fagbenle](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/O.T.%20Fagbenle.jpg)
@@ -8064,6 +8064,7 @@
 * [Oliver Platt](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/Oliver%20Platt.jpg)
 * [Oliver Reed](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/Oliver%20Reed.jpg)
 * [Oliver Ryan](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/Oliver%20Ryan.jpg)
+* [Oliver Stark](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/Oliver%20Stark.jpg)
 * [Oliver Stone](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/Oliver%20Stone.jpg)
 * [Olivia Araújo](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/Olivia%20Ara%C3%BAjo.jpg)
 * [Olivia Cheng](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/Olivia%20Cheng.jpg)
