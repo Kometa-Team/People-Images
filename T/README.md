@@ -1,4 +1,4 @@
-# Kometa People Images - Original - T (539 Images)
+# Kometa People Images - Original - T (540 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/T.%20J.%20Miller.jpg)
@@ -489,6 +489,7 @@
 * [Travis Van Winkle](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Travis%20Van%20Winkle.jpg)
 * [Treat Williams](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Treat%20Williams.jpg)
 * [Tress MacNeille](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Tress%20MacNeille.jpg)
+* [Trevor Champion Rogers](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Trevor%20Champion%20Rogers.jpg)
 * [Trevor Devall](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Trevor%20Devall.jpg)
 * [Trevor Donovan](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Trevor%20Donovan.jpg)
 * [Trevor Eve](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Trevor%20Eve.jpg)
