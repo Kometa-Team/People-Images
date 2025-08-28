@@ -1,4 +1,4 @@
-# Kometa People Images - Original (11107 Images)
+# Kometa People Images - Original (11108 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -10117,7 +10117,7 @@
 * [Søren Pilmark](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/S/Images/S%C3%B8ren%20Pilmark.jpg)
 * [Sō Yamanaka](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/S/Images/S%C5%8D%20Yamanaka.jpg)
 </details>
-<details><summary><a href="T">T (540 Images)</a></summary>
+<details><summary><a href="T">T (541 Images)</a></summary>
 
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/T.%20J.%20Miller.jpg)
 * [T. Love](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/T.%20Love.jpg)
@@ -10440,6 +10440,7 @@
 * [Tom Brennan](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Tom%20Brennan.jpg)
 * [Tom Brittney](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Tom%20Brittney.jpg)
 * [Tom Chadbon](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Tom%20Chadbon.jpg)
+* [Tom Clancy](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Tom%20Clancy.jpg)
 * [Tom Conti](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Tom%20Conti.jpg)
 * [Tom Courtenay](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Tom%20Courtenay.jpg)
 * [Tom Cruise](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Tom%20Cruise.jpg)
