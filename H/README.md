@@ -1,4 +1,4 @@
-# Kometa People Images - Original - H (284 Images)
+# Kometa People Images - Original - H (285 Images)
 ![Grid](grid.jpg)
 
 * [H. Jon Benjamin](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/H.%20Jon%20Benjamin.jpg)
@@ -246,6 +246,7 @@
 * [Hoshi Ishida](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Hoshi%20Ishida.jpg)
 * [Hossam Fares](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Hossam%20Fares.jpg)
 * [Hou Hsiao-hsien](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Hou%20Hsiao-hsien.jpg)
+* [Houko Kuwashima](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Houko%20Kuwashima.jpg)
 * [Hovik Keuchkerian](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Hovik%20Keuchkerian.jpg)
 * [Howard Deutch](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Howard%20Deutch.jpg)
 * [Howard G. Kazanjian](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Howard%20G.%20Kazanjian.jpg)
