@@ -1,4 +1,4 @@
-# Kometa People Images - Original (11174 Images)
+# Kometa People Images - Original (11175 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -917,7 +917,7 @@
 * [Aziz Ansari](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/A/Images/Aziz%20Ansari.jpg)
 * [Azumi Waki](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/A/Images/Azumi%20Waki.jpg)
 </details>
-<details><summary><a href="B">B (563 Images)</a></summary>
+<details><summary><a href="B">B (564 Images)</a></summary>
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/B/Images/B.F.%20Blinn.jpg)
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/B/Images/B.J.%20Penn.jpg)
@@ -1467,6 +1467,7 @@
 * [Burn Gorman](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/B/Images/Burn%20Gorman.jpg)
 * [Burny Mattinson](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/B/Images/Burny%20Mattinson.jpg)
 * [Burr Steers](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/B/Images/Burr%20Steers.jpg)
+* [Burt Gillett](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/B/Images/Burt%20Gillett.jpg)
 * [Burt Kwouk](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/B/Images/Burt%20Kwouk.jpg)
 * [Burt Lancaster](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/B/Images/Burt%20Lancaster.jpg)
 * [Burt Reynolds](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/B/Images/Burt%20Reynolds.jpg)
