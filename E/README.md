@@ -1,4 +1,4 @@
-# Kometa People Images - Original - E (396 Images)
+# Kometa People Images - Original - E (398 Images)
 ![Grid](grid.jpg)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/E.G.%20Marshall.jpg)
@@ -326,6 +326,7 @@
 * [Ernest Cline](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/Ernest%20Cline.jpg)
 * [Ernest Lehman](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/Ernest%20Lehman.jpg)
 * [Ernest Tidyman](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/Ernest%20Tidyman.jpg)
+* [Ernie Barbarash](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/Ernie%20Barbarash.jpg)
 * [Ernie Hudson](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/Ernie%20Hudson.jpg)
 * [Ernie Reyes Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/Ernie%20Reyes%20Jr..jpg)
 * [Ernst Lubitsch](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/Ernst%20Lubitsch.jpg)
@@ -350,6 +351,7 @@
 * [Ethan Hawke](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/Ethan%20Hawke.jpg)
 * [Ethan Lawrence](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/Ethan%20Lawrence.jpg)
 * [Ethan Phillips](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/Ethan%20Phillips.jpg)
+* [Ethan Spaulding](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/Ethan%20Spaulding.jpg)
 * [Ethan Suplee](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/Ethan%20Suplee.jpg)
 * [Ethel Griffies](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/Ethel%20Griffies.jpg)
 * [Eugene Cordero](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/Eugene%20Cordero.jpg)

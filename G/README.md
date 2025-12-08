@@ -1,4 +1,4 @@
-# Kometa People Images - Original - G (384 Images)
+# Kometa People Images - Original - G (385 Images)
 ![Grid](grid.jpg)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/G/Images/G-Eazy.jpg)
@@ -375,6 +375,7 @@
 * [Guy Siner](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/G/Images/Guy%20Siner.jpg)
 * [Guy Torry](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/G/Images/Guy%20Torry.jpg)
 * [Guymon Casady](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/G/Images/Guymon%20Casady.jpg)
+* [Guz Khan](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/G/Images/Guz%20Khan.jpg)
 * [Gwen Verdon](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/G/Images/Gwen%20Verdon.jpg)
 * [Gwendoline Christie](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/G/Images/Gwendoline%20Christie.jpg)
 * [Gwendoline Yeo](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/G/Images/Gwendoline%20Yeo.jpg)
