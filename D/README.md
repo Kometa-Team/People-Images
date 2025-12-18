@@ -1,4 +1,4 @@
-# Kometa People Images - Original - D (718 Images)
+# Kometa People Images - Original - D (720 Images)
 ![Grid](grid.jpg)
 
 * [D. David Morin](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/D.%20David%20Morin.jpg)
@@ -104,6 +104,7 @@
 * [Dania Ramírez](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Dania%20Ram%C3%ADrez.jpg)
 * [Danica Curcic](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Danica%20Curcic.jpg)
 * [Danica McKellar](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Danica%20McKellar.jpg)
+* [Danica Ćurčić](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Danica%20%C4%86ur%C4%8Di%C4%87.jpg)
 * [Daniel Auteuil](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Daniel%20Auteuil.jpg)
 * [Daniel Bernhardt](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Daniel%20Bernhardt.jpg)
 * [Daniel Brühl](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Daniel%20Br%C3%BChl.jpg)
@@ -488,6 +489,7 @@
 * [Dennis Lehane](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Dennis%20Lehane.jpg)
 * [Dennis Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Dennis%20Miller.jpg)
 * [Dennis Quaid](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Dennis%20Quaid.jpg)
+* [Dennis Storhøi](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Dennis%20Storh%C3%B8i.jpg)
 * [Dennis Widmyer](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Dennis%20Widmyer.jpg)
 * [Denny Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Denny%20Miller.jpg)
 * [Denzel Washington](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Denzel%20Washington.jpg)
