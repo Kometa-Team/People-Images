@@ -1,4 +1,4 @@
-# Kometa People Images - Original - C (715 Images)
+# Kometa People Images - Original - C (716 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -569,6 +569,7 @@
 * [Clem So](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Clem%20So.jpg)
 * [Clemens Schick](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Clemens%20Schick.jpg)
 * [Cleo Rocos](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Cleo%20Rocos.jpg)
+* [Cliff Cash](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Cliff%20Cash.jpg)
 * [Cliff Curtis](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Cliff%20Curtis.jpg)
 * [Cliff Robertson](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Cliff%20Robertson.jpg)
 * [Cliff Williams](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Cliff%20Williams.jpg)

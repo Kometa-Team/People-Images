@@ -1,4 +1,4 @@
-# Kometa People Images - Original - H (287 Images)
+# Kometa People Images - Original - H (290 Images)
 ![Grid](grid.jpg)
 
 * [H. Jon Benjamin](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/H.%20Jon%20Benjamin.jpg)
@@ -40,7 +40,9 @@
 * [Hank Azaria](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Hank%20Azaria.jpg)
 * [Hank Worden](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Hank%20Worden.jpg)
 * [Hanna Hall](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Hanna%20Hall.jpg)
+* [Hannah Berner](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Hannah%20Berner.jpg)
 * [Hannah Dodd](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Hannah%20Dodd.jpg)
+* [Hannah Einbinder](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Hannah%20Einbinder.jpg)
 * [Hannah Gordon](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Hannah%20Gordon.jpg)
 * [Hannah Gottesman](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Hannah%20Gottesman.jpg)
 * [Hannah Gross](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Hannah%20Gross.jpg)
@@ -206,6 +208,7 @@
 * [Hiram Garcia](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Hiram%20Garcia.jpg)
 * [Hiro Kanagawa](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Hiro%20Kanagawa.jpg)
 * [Hiro Shimono](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Hiro%20Shimono.jpg)
+* [Hiroaki Hirata](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Hiroaki%20Hirata.jpg)
 * [Hiroaki Iwanaga](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Hiroaki%20Iwanaga.jpg)
 * [Hirokazu Kore-eda](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Hirokazu%20Kore-eda.jpg)
 * [Hiroki Touchi](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Hiroki%20Touchi.jpg)

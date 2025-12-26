@@ -1,4 +1,4 @@
-# Kometa People Images - Original - J (1389 Images)
+# Kometa People Images - Original - J (1390 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/J%27Dvonte.jpg)
@@ -795,6 +795,7 @@
 * [Joe Stillman](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Joe%20Stillman.jpg)
 * [Joe Wilkinson](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Joe%20Wilkinson.jpg)
 * [Joe Wright](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Joe%20Wright.jpg)
+* [Joe Zimmerman](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Joe%20Zimmerman.jpg)
 * [Joe' Michael Chavez](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Joe%27%20Michael%20Chavez.jpg)
 * [Joel Coen](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Joel%20Coen.jpg)
 * [Joel Courtney](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Joel%20Courtney.jpg)

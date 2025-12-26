@@ -1,4 +1,4 @@
-# Kometa People Images - Original - S (802 Images)
+# Kometa People Images - Original - S (803 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/S/Images/S.%20S.%20Rajamouli.jpg)
@@ -585,6 +585,7 @@
 * [Stanley Wong](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/S/Images/Stanley%20Wong.jpg)
 * [Stany De Silva](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/S/Images/Stany%20De%20Silva.jpg)
 * [Star Slade](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/S/Images/Star%20Slade.jpg)
+* [Stavros Halkias](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/S/Images/Stavros%20Halkias.jpg)
 * [Stef Dawson](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/S/Images/Stef%20Dawson.jpg)
 * [Stefan Arndt](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/S/Images/Stefan%20Arndt.jpg)
 * [Stefan Kalipha](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/S/Images/Stefan%20Kalipha.jpg)

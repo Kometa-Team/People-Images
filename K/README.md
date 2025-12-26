@@ -1,4 +1,4 @@
-# Kometa People Images - Original - K (548 Images)
+# Kometa People Images - Original - K (549 Images)
 ![Grid](grid.jpg)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/K/Images/K%20Raghavendra%20Rao.jpg)
@@ -173,6 +173,7 @@
 * [Kayvan Novak](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/K/Images/Kayvan%20Novak.jpg)
 * [Kazeem Tosin Amore](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/K/Images/Kazeem%20Tosin%20Amore.jpg)
 * [Kazuki Kitamura](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/K/Images/Kazuki%20Kitamura.jpg)
+* [Kazuki Yao](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/K/Images/Kazuki%20Yao.jpg)
 * [Kazuko Yanaga](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/K/Images/Kazuko%20Yanaga.jpg)
 * [Kazunari Tanaka](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/K/Images/Kazunari%20Tanaka.jpg)
 * [Kazuya Nakai](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/K/Images/Kazuya%20Nakai.jpg)

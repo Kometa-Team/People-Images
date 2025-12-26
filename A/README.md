@@ -1,4 +1,4 @@
-# Kometa People Images - Original - A (918 Images)
+# Kometa People Images - Original - A (919 Images)
 ![Grid](grid.jpg)
 
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/A/Images/A.%20Edward%20Sutherland.jpg)
@@ -161,6 +161,7 @@
 * [Akaji Maro](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/A/Images/Akaji%20Maro.jpg)
 * [Akari Kito](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/A/Images/Akari%20Kito.jpg)
 * [Akarsh Khurana](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/A/Images/Akarsh%20Khurana.jpg)
+* [Akemi Okamura](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/A/Images/Akemi%20Okamura.jpg)
 * [Akemnji Ndifornyen](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/A/Images/Akemnji%20Ndifornyen.jpg)
 * [Aki Kaurismäki](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/A/Images/Aki%20Kaurism%C3%A4ki.jpg)
 * [Aki Takejo](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/A/Images/Aki%20Takejo.jpg)
