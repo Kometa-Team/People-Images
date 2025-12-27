@@ -1,4 +1,4 @@
-# Kometa People Images - Original - J (1390 Images)
+# Kometa People Images - Original - J (1392 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/J%27Dvonte.jpg)
@@ -366,6 +366,7 @@
 * [Javed Jaffrey](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Javed%20Jaffrey.jpg)
 * [Javier Bardem](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Javier%20Bardem.jpg)
 * [Javier Grajeda](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Javier%20Grajeda.jpg)
+* [Javier Gutiérrez](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Javier%20Guti%C3%A9rrez.jpg)
 * [Javier Rey](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Javier%20Rey.jpg)
 * [Javon Walton](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Javon%20Walton.jpg)
 * [Jay Baruchel](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jay%20Baruchel.jpg)
@@ -1259,6 +1260,7 @@
 * [Juan Carlos Cantu](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Juan%20Carlos%20Cantu.jpg)
 * [Juan Carlos Fresnadillo](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Juan%20Carlos%20Fresnadillo.jpg)
 * [Juan Castano](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Juan%20Castano.jpg)
+* [Juan Diego Botto](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Juan%20Diego%20Botto.jpg)
 * [Juan Fernández](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Juan%20Fern%C3%A1ndez.jpg)
 * [Juan Pablo Raba](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Juan%20Pablo%20Raba.jpg)
 * [Juan Pacheco](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Juan%20Pacheco.jpg)
