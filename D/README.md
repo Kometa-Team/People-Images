@@ -1,4 +1,4 @@
-# Kometa People Images - Original - D (720 Images)
+# Kometa People Images - Original - D (721 Images)
 ![Grid](grid.jpg)
 
 * [D. David Morin](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/D.%20David%20Morin.jpg)
@@ -238,6 +238,7 @@
 * [Dave Matthews](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Dave%20Matthews.jpg)
 * [Dave Polsky](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Dave%20Polsky.jpg)
 * [Dave Simon](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Dave%20Simon.jpg)
+* [Dave Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Dave%20Smith.jpg)
 * [Dave Spikey](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Dave%20Spikey.jpg)
 * [Dave Turin](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Dave%20Turin.jpg)
 * [Dave Willis](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Dave%20Willis.jpg)

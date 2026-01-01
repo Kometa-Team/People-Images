@@ -1,4 +1,4 @@
-# Kometa People Images - Original (11292 Images)
+# Kometa People Images - Original (11293 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -2222,7 +2222,7 @@
 * [Cédric Klapisch](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/C%C3%A9dric%20Klapisch.jpg)
 * [Céline Sciamma](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/C%C3%A9line%20Sciamma.jpg)
 </details>
-<details><summary><a href="D">D (720 Images)</a></summary>
+<details><summary><a href="D">D (721 Images)</a></summary>
 
 * [D. David Morin](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/D.%20David%20Morin.jpg)
 * [D.A. Obahor](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/D.A.%20Obahor.jpg)
@@ -2461,6 +2461,7 @@
 * [Dave Matthews](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Dave%20Matthews.jpg)
 * [Dave Polsky](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Dave%20Polsky.jpg)
 * [Dave Simon](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Dave%20Simon.jpg)
+* [Dave Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Dave%20Smith.jpg)
 * [Dave Spikey](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Dave%20Spikey.jpg)
 * [Dave Turin](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Dave%20Turin.jpg)
 * [Dave Willis](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Dave%20Willis.jpg)
