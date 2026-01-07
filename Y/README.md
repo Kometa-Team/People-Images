@@ -1,4 +1,4 @@
-# Kometa People Images - Original - Y (102 Images)
+# Kometa People Images - Original - Y (103 Images)
 ![Grid](grid.jpg)
 
 * [Y. Ravi Shankar](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/Y/Images/Y.%20Ravi%20Shankar.jpg)
@@ -95,6 +95,7 @@
 * [Yuuichirou Umehara](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/Y/Images/Yuuichirou%20Umehara.jpg)
 * [Yuya Yagira](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/Y/Images/Yuya%20Yagira.jpg)
 * [Yuzuru Tachikawa](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/Y/Images/Yuzuru%20Tachikawa.jpg)
+* [Yves Barsacq](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/Y/Images/Yves%20Barsacq.jpg)
 * [Yves-Marie Maurin](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/Y/Images/Yves-Marie%20Maurin.jpg)
 * [Yvetta Fisher](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/Y/Images/Yvetta%20Fisher.jpg)
 * [Yvette Nicole Brown](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/Y/Images/Yvette%20Nicole%20Brown.jpg)

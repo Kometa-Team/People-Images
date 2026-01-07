@@ -1,4 +1,4 @@
-# Kometa People Images - Original - C (717 Images)
+# Kometa People Images - Original - C (719 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -416,6 +416,7 @@
 * [Christian Isaiah](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Christian%20Isaiah.jpg)
 * [Christian Kane](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Christian%20Kane.jpg)
 * [Christian Navarro](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Christian%20Navarro.jpg)
+* [Christian Pelissier](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Christian%20Pelissier.jpg)
 * [Christian Rub](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Christian%20Rub.jpg)
 * [Christian Rubeck](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Christian%20Rubeck.jpg)
 * [Christian Slater](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Christian%20Slater.jpg)
@@ -448,6 +449,7 @@
 * [Christine Lin](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Christine%20Lin.jpg)
 * [Christine Renaud](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Christine%20Renaud.jpg)
 * [Christine Taylor](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Christine%20Taylor.jpg)
+* [Christine Tremarco](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Christine%20Tremarco.jpg)
 * [Christine Vachon](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Christine%20Vachon.jpg)
 * [Christoph Waltz](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Christoph%20Waltz.jpg)
 * [Christoph von Friedl](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Christoph%20von%20Friedl.jpg)

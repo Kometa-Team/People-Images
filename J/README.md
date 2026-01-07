@@ -1,4 +1,4 @@
-# Kometa People Images - Original - J (1392 Images)
+# Kometa People Images - Original - J (1394 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/J%27Dvonte.jpg)
@@ -422,6 +422,7 @@
 * [Jean-Pierre Léaud](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jean-Pierre%20L%C3%A9aud.jpg)
 * [Jean-Pierre Marielle](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jean-Pierre%20Marielle.jpg)
 * [Jean-Pierre Melville](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jean-Pierre%20Melville.jpg)
+* [Jean-Pierre Moulin](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jean-Pierre%20Moulin.jpg)
 * [Jean-Sébastien Williams](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jean-S%C3%A9bastien%20Williams.jpg)
 * [Jeanine Serralles](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jeanine%20Serralles.jpg)
 * [Jeanne Killjoy](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jeanne%20Killjoy.jpg)
@@ -1085,6 +1086,7 @@
 * [Jonas Karlsson](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jonas%20Karlsson.jpg)
 * [Jonas Rivera](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jonas%20Rivera.jpg)
 * [Jonathan Aibel](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jonathan%20Aibel.jpg)
+* [Jonathan Ajayi](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jonathan%20Ajayi.jpg)
 * [Jonathan Aris](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jonathan%20Aris.jpg)
 * [Jonathan Bailey](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jonathan%20Bailey.jpg)
 * [Jonathan Banks](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jonathan%20Banks.jpg)

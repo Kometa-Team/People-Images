@@ -1,4 +1,4 @@
-# Kometa People Images - Original - T (552 Images)
+# Kometa People Images - Original - T (553 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/T.%20J.%20Miller.jpg)
@@ -174,6 +174,7 @@
 * [Theodore von Eltz](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Theodore%20von%20Eltz.jpg)
 * [Theresa Randle](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Theresa%20Randle.jpg)
 * [Thiago Martins](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Thiago%20Martins.jpg)
+* [Thierry Wermuth](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Thierry%20Wermuth.jpg)
 * [Thom Barry](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Thom%20Barry.jpg)
 * [Thom Gossom Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Thom%20Gossom%20Jr..jpg)
 * [Thom Green](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Thom%20Green.jpg)

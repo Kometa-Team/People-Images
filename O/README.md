@@ -1,4 +1,4 @@
-# Kometa People Images - Original - O (98 Images)
+# Kometa People Images - Original - O (99 Images)
 ![Grid](grid.jpg)
 
 * [O'Shea Jackson Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/O%27Shea%20Jackson%20Jr..jpg)
@@ -95,6 +95,7 @@
 * [Ovidiu Iuliu Moldovan](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/Ovidiu%20Iuliu%20Moldovan.jpg)
 * [Owain Arthur](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/Owain%20Arthur.jpg)
 * [Owen Benjamin](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/Owen%20Benjamin.jpg)
+* [Owen Cooper](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/Owen%20Cooper.jpg)
 * [Owen Daniels](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/Owen%20Daniels.jpg)
 * [Owen Morgan](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/Owen%20Morgan.jpg)
 * [Owen Teale](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/Owen%20Teale.jpg)

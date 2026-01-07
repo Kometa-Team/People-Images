@@ -1,4 +1,4 @@
-# Kometa People Images - Original - H (290 Images)
+# Kometa People Images - Original - H (291 Images)
 ![Grid](grid.jpg)
 
 * [H. Jon Benjamin](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/H.%20Jon%20Benjamin.jpg)
@@ -153,6 +153,7 @@
 * [Helmut Griem](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Helmut%20Griem.jpg)
 * [Hema Malini](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Hema%20Malini.jpg)
 * [Henri Garcin](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Henri%20Garcin.jpg)
+* [Henri Labussière](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Henri%20Labussi%C3%A8re.jpg)
 * [Henri-Georges Clouzot](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Henri-Georges%20Clouzot.jpg)
 * [Henrik Kalmet](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Henrik%20Kalmet.jpg)
 * [Henry Bergman](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Henry%20Bergman.jpg)

@@ -1,4 +1,4 @@
-# Kometa People Images - Original - L (505 Images)
+# Kometa People Images - Original - L (508 Images)
 ![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/L/Images/L.%20Q.%20Jones.jpg)
@@ -40,7 +40,9 @@
 * [Larissa Andrade](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/L/Images/Larissa%20Andrade.jpg)
 * [Larry Blamire](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/L/Images/Larry%20Blamire.jpg)
 * [Larry Brandenburg](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/L/Images/Larry%20Brandenburg.jpg)
+* [Larry Carr](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/L/Images/Larry%20Carr.jpg)
 * [Larry Cedar](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/L/Images/Larry%20Cedar.jpg)
+* [Larry Charles](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/L/Images/Larry%20Charles.jpg)
 * [Larry Clarke](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/L/Images/Larry%20Clarke.jpg)
 * [Larry David](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/L/Images/Larry%20David.jpg)
 * [Larry Fessenden](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/L/Images/Larry%20Fessenden.jpg)
@@ -282,6 +284,7 @@
 * [Lily Collins](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/L/Images/Lily%20Collins.jpg)
 * [Lily James](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/L/Images/Lily%20James.jpg)
 * [Lily Morgan](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/L/Images/Lily%20Morgan.jpg)
+* [Lily Newmark](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/L/Images/Lily%20Newmark.jpg)
 * [Lily Rabe](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/L/Images/Lily%20Rabe.jpg)
 * [Lily Sullivan](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/L/Images/Lily%20Sullivan.jpg)
 * [Lily Tomlin](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/L/Images/Lily%20Tomlin.jpg)
