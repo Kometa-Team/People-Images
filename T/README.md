@@ -1,4 +1,4 @@
-# Kometa People Images - Original - T (553 Images)
+# Kometa People Images - Original - T (554 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/T.%20J.%20Miller.jpg)
@@ -189,6 +189,7 @@
 * [Thomas Doherty](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Thomas%20Doherty.jpg)
 * [Thomas F. Wilson](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Thomas%20F.%20Wilson.jpg)
 * [Thomas Haden Church](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Thomas%20Haden%20Church.jpg)
+* [Thomas Hayslip](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Thomas%20Hayslip.jpg)
 * [Thomas Ian Griffith](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Thomas%20Ian%20Griffith.jpg)
 * [Thomas Ian Nicholas](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Thomas%20Ian%20Nicholas.jpg)
 * [Thomas Jane](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Thomas%20Jane.jpg)

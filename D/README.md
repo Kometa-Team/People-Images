@@ -1,4 +1,4 @@
-# Kometa People Images - Original - D (721 Images)
+# Kometa People Images - Original - D (722 Images)
 ![Grid](grid.jpg)
 
 * [D. David Morin](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/D.%20David%20Morin.jpg)
@@ -653,6 +653,7 @@
 * [Donovan Leitch](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Donovan%20Leitch.jpg)
 * [Dooley Wilson](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Dooley%20Wilson.jpg)
 * [Doon Mackichan](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Doon%20Mackichan.jpg)
+* [Doreen Turner](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Doreen%20Turner.jpg)
 * [Dorian Missick](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Dorian%20Missick.jpg)
 * [Doris Day](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Doris%20Day.jpg)
 * [Doris Merrick](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Doris%20Merrick.jpg)

@@ -1,4 +1,4 @@
-# Kometa People Images - Original - J (1394 Images)
+# Kometa People Images - Original - J (1396 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/J%27Dvonte.jpg)
@@ -12,6 +12,7 @@
 * [J. R. R. Tolkien](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/J.%20R.%20R.%20Tolkien.jpg)
 * [J. T. Walsh](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/J.%20T.%20Walsh.jpg)
 * [J. Tucker Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/J.%20Tucker%20Smith.jpg)
+* [J.A. Bayona](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/J.A.%20Bayona.jpg)
 * [J.B. Smoove](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/J.B.%20Smoove.jpg)
 * [J.C. MacKenzie](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/J.C.%20MacKenzie.jpg)
 * [J.C. Spink](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/J.C.%20Spink.jpg)
@@ -733,6 +734,7 @@
 * [Joanna Hogg](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Joanna%20Hogg.jpg)
 * [Joanna Lumley](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Joanna%20Lumley.jpg)
 * [Joanna Page](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Joanna%20Page.jpg)
+* [Joanna Scanlan](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Joanna%20Scanlan.jpg)
 * [Joanne Froggatt](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Joanne%20Froggatt.jpg)
 * [Joanne Whalley](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Joanne%20Whalley.jpg)
 * [Joanne Woodward](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Joanne%20Woodward.jpg)
