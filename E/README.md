@@ -1,4 +1,4 @@
-# Kometa People Images - Original - E (401 Images)
+# Kometa People Images - Original - E (402 Images)
 ![Grid](grid.jpg)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/E.G.%20Marshall.jpg)
@@ -150,6 +150,7 @@
 * [Elizabeth Wilson](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/Elizabeth%20Wilson.jpg)
 * [Ella Hunt](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/Ella%20Hunt.jpg)
 * [Ella Jay Basco](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/Ella%20Jay%20Basco.jpg)
+* [Ella Leyers](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/Ella%20Leyers.jpg)
 * [Ella Mika](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/Ella%20Mika.jpg)
 * [Ella Purnell](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/Ella%20Purnell.jpg)
 * [Elle Fanning](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/Elle%20Fanning.jpg)

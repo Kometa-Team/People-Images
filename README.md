@@ -1,4 +1,4 @@
-# Kometa People Images - Original (11328 Images)
+# Kometa People Images - Original (11331 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -2955,7 +2955,7 @@
 * [Débora Nascimento](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/D%C3%A9bora%20Nascimento.jpg)
 * [Díana Bermudez](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/D%C3%ADana%20Bermudez.jpg)
 </details>
-<details><summary><a href="E">E (401 Images)</a></summary>
+<details><summary><a href="E">E (402 Images)</a></summary>
 
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/E.G.%20Marshall.jpg)
 * [E.J. Bonilla](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/E.J.%20Bonilla.jpg)
@@ -3106,6 +3106,7 @@
 * [Elizabeth Wilson](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/Elizabeth%20Wilson.jpg)
 * [Ella Hunt](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/Ella%20Hunt.jpg)
 * [Ella Jay Basco](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/Ella%20Jay%20Basco.jpg)
+* [Ella Leyers](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/Ella%20Leyers.jpg)
 * [Ella Mika](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/Ella%20Mika.jpg)
 * [Ella Purnell](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/Ella%20Purnell.jpg)
 * [Elle Fanning](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/Elle%20Fanning.jpg)
@@ -3359,11 +3360,13 @@
 * [Ezra Buzzington](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/Ezra%20Buzzington.jpg)
 * [Ezra Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/Ezra%20Miller.jpg)
 </details>
-<details><summary><a href="F">F (202 Images)</a></summary>
+<details><summary><a href="F">F (204 Images)</a></summary>
 
 * [F. Gary Gray](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/F/Images/F.%20Gary%20Gray.jpg)
 * [F. Murray Abraham](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/F/Images/F.%20Murray%20Abraham.jpg)
 * [F. W. Murnau](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/F/Images/F.%20W.%20Murnau.jpg)
+* [FAKELuis Tosar](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/F/Images/FAKELuis%20Tosar.jpg)
+* [FAKEOlivia Cheng](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/F/Images/FAKEOlivia%20Cheng.jpg)
 * [Fabien Frankel](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/F/Images/Fabien%20Frankel.jpg)
 * [Fabio D'Innocenzo](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/F/Images/Fabio%20D%27Innocenzo.jpg)
 * [Fabrice Gianfermi](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/F/Images/Fabrice%20Gianfermi.jpg)
