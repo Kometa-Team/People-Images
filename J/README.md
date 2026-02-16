@@ -1,4 +1,4 @@
-# Kometa People Images - Original - J (1396 Images)
+# Kometa People Images - Original - J (1398 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/J%27Dvonte.jpg)
@@ -287,6 +287,7 @@
 * [Janeshia Adams-Ginyard](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Janeshia%20Adams-Ginyard.jpg)
 * [Janet Healy](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Janet%20Healy.jpg)
 * [Janet McTeer](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Janet%20McTeer.jpg)
+* [Jang Jae-hyun](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jang%20Jae-hyun.jpg)
 * [Jang Tae Hoon](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jang%20Tae%20Hoon.jpg)
 * [Jang Yo-hoon](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jang%20Yo-hoon.jpg)
 * [Jang Young-hwan](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jang%20Young-hwan.jpg)
@@ -1294,6 +1295,7 @@
 * [Julia Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Julia%20Jones.jpg)
 * [Julia Louis-Dreyfus](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Julia%20Louis-Dreyfus.jpg)
 * [Julia Ormond](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Julia%20Ormond.jpg)
+* [Julia Reichert](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Julia%20Reichert.jpg)
 * [Julia Roberts](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Julia%20Roberts.jpg)
 * [Julia Sawalha](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Julia%20Sawalha.jpg)
 * [Julia Stiles](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Julia%20Stiles.jpg)

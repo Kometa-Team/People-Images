@@ -1,4 +1,4 @@
-# Kometa People Images - Original - T (554 Images)
+# Kometa People Images - Original - T (555 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/T.%20J.%20Miller.jpg)
@@ -304,6 +304,7 @@
 * [Tod Gordon](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Tod%20Gordon.jpg)
 * [Todd Barry](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Todd%20Barry.jpg)
 * [Todd Boyce](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Todd%20Boyce.jpg)
+* [Todd Douglas Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Todd%20Douglas%20Miller.jpg)
 * [Todd Garner](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Todd%20Garner.jpg)
 * [Todd Glass](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Todd%20Glass.jpg)
 * [Todd Hallowell](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Todd%20Hallowell.jpg)

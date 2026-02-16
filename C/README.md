@@ -1,4 +1,4 @@
-# Kometa People Images - Original - C (719 Images)
+# Kometa People Images - Original - C (720 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -675,6 +675,7 @@
 * [Cory DuVal](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Cory%20DuVal.jpg)
 * [Cory Michael Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Cory%20Michael%20Smith.jpg)
 * [Cory Peterson](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Cory%20Peterson.jpg)
+* [Costa Botes](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Costa%20Botes.jpg)
 * [Costa-Gavras](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Costa-Gavras.jpg)
 * [Costas Mandylor](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Costas%20Mandylor.jpg)
 * [Courteney Cox](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Courteney%20Cox.jpg)
