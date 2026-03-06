@@ -1,4 +1,4 @@
-# Kometa People Images - Original - W (197 Images)
+# Kometa People Images - Original - W (198 Images)
 ![Grid](grid.jpg)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/W/Images/W.%20Bruce%20Cameron.jpg)
@@ -86,6 +86,7 @@
 * [Will Forte](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/W/Images/Will%20Forte.jpg)
 * [Will Friedle](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/W/Images/Will%20Friedle.jpg)
 * [Will Hare](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/W/Images/Will%20Hare.jpg)
+* [Will Harrison](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/W/Images/Will%20Harrison.jpg)
 * [Will Hay](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/W/Images/Will%20Hay.jpg)
 * [Will Kemp](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/W/Images/Will%20Kemp.jpg)
 * [Will Lyman](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/W/Images/Will%20Lyman.jpg)

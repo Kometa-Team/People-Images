@@ -1,4 +1,4 @@
-# Kometa People Images - Original - H (291 Images)
+# Kometa People Images - Original - H (292 Images)
 ![Grid](grid.jpg)
 
 * [H. Jon Benjamin](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/H.%20Jon%20Benjamin.jpg)
@@ -106,6 +106,7 @@
 * [Haruka Ayase](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Haruka%20Ayase.jpg)
 * [Haruka Shiraishi](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Haruka%20Shiraishi.jpg)
 * [Haruka Tomatsu](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Haruka%20Tomatsu.jpg)
+* [Haruna Mikawa](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Haruna%20Mikawa.jpg)
 * [Harve Bennett](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Harve%20Bennett.jpg)
 * [Harvey Kahn](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Harvey%20Kahn.jpg)
 * [Harvey Keitel](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Harvey%20Keitel.jpg)

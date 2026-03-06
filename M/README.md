@@ -1,4 +1,4 @@
-# Kometa People Images - Original - M (1069 Images)
+# Kometa People Images - Original - M (1070 Images)
 ![Grid](grid.jpg)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
@@ -860,6 +860,7 @@
 * [Michelle Rose](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/M/Images/Michelle%20Rose.jpg)
 * [Michelle Ryan](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/M/Images/Michelle%20Ryan.jpg)
 * [Michelle Trachtenberg](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/M/Images/Michelle%20Trachtenberg.jpg)
+* [Michelle Visage](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/M/Images/Michelle%20Visage.jpg)
 * [Michelle Williams](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/M/Images/Michelle%20Williams.jpg)
 * [Michelle Wong](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/M/Images/Michelle%20Wong.jpg)
 * [Michelle Yeoh](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/M/Images/Michelle%20Yeoh.jpg)

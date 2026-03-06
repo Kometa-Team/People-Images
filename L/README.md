@@ -1,4 +1,4 @@
-# Kometa People Images - Original - L (510 Images)
+# Kometa People Images - Original - L (511 Images)
 ![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/L/Images/L.%20Q.%20Jones.jpg)
@@ -281,6 +281,7 @@
 * [Lillete Dubey](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/L/Images/Lillete%20Dubey.jpg)
 * [Lillo Brancato](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/L/Images/Lillo%20Brancato.jpg)
 * [Lilly Aspell](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/L/Images/Lilly%20Aspell.jpg)
+* [Lilly Sophia Gaisie](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/L/Images/Lilly%20Sophia%20Gaisie.jpg)
 * [Lilly Wachowski](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/L/Images/Lilly%20Wachowski.jpg)
 * [Lily Collins](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/L/Images/Lily%20Collins.jpg)
 * [Lily James](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/L/Images/Lily%20James.jpg)

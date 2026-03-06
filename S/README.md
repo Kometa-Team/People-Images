@@ -1,4 +1,4 @@
-# Kometa People Images - Original - S (808 Images)
+# Kometa People Images - Original - S (809 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/S/Images/S.%20S.%20Rajamouli.jpg)
@@ -534,6 +534,7 @@
 * [Sophia Alongi](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/S/Images/Sophia%20Alongi.jpg)
 * [Sophia Bush](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/S/Images/Sophia%20Bush.jpg)
 * [Sophia Di Martino](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/S/Images/Sophia%20Di%20Martino.jpg)
+* [Sophia Lillis](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/S/Images/Sophia%20Lillis.jpg)
 * [Sophia Loren](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/S/Images/Sophia%20Loren.jpg)
 * [Sophia Lorenti](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/S/Images/Sophia%20Lorenti.jpg)
 * [Sophia Mitri Schloss](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/S/Images/Sophia%20Mitri%20Schloss.jpg)

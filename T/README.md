@@ -1,4 +1,4 @@
-# Kometa People Images - Original - T (555 Images)
+# Kometa People Images - Original - T (557 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/T.%20J.%20Miller.jpg)
@@ -13,6 +13,7 @@
 * [Tadanobu Asano](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Tadanobu%20Asano.jpg)
 * [Taegen Burns](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Taegen%20Burns.jpg)
 * [Tahmoh Penikett](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Tahmoh%20Penikett.jpg)
+* [Taichi Ogawa](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Taichi%20Ogawa.jpg)
 * [Taika Waititi](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Taika%20Waititi.jpg)
 * [Tait Fletcher](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Tait%20Fletcher.jpg)
 * [Takahiro Sakurai](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Takahiro%20Sakurai.jpg)
@@ -63,6 +64,7 @@
 * [Tarik Saleh](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Tarik%20Saleh.jpg)
 * [Taron Egerton](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Taron%20Egerton.jpg)
 * [Taryn Manning](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Taryn%20Manning.jpg)
+* [Tasuku Hatanaka](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Tasuku%20Hatanaka.jpg)
 * [Tate Donovan](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Tate%20Donovan.jpg)
 * [Tate Ellington](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Tate%20Ellington.jpg)
 * [Tate Taylor](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/Tate%20Taylor.jpg)

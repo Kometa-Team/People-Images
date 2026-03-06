@@ -1,4 +1,4 @@
-# Kometa People Images - Original - J (1398 Images)
+# Kometa People Images - Original - J (1400 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/J%27Dvonte.jpg)
@@ -112,6 +112,7 @@
 * [Jacy King](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jacy%20King.jpg)
 * [Jada Pinkett Smith](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jada%20Pinkett%20Smith.jpg)
 * [Jade Anouka](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jade%20Anouka.jpg)
+* [Jade Harrison-Will](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jade%20Harrison-Will.jpg)
 * [Jade Ma](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jade%20Ma.jpg)
 * [Jade Xu](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jade%20Xu.jpg)
 * [Jaeden Martell](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jaeden%20Martell.jpg)
@@ -836,6 +837,7 @@
 * [Joey Perillo](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Joey%20Perillo.jpg)
 * [Joey Vieira](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Joey%20Vieira.jpg)
 * [Joey Wells](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Joey%20Wells.jpg)
+* [Johannes Roberts](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Johannes%20Roberts.jpg)
 * [John Abineri](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/John%20Abineri.jpg)
 * [John Alan Schwartz](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/John%20Alan%20Schwartz.jpg)
 * [John Ales](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/John%20Ales.jpg)

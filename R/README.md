@@ -1,4 +1,4 @@
-# Kometa People Images - Original - R (711 Images)
+# Kometa People Images - Original - R (712 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/R/Images/R.%20Lee%20Ermey.jpg)
@@ -601,6 +601,7 @@
 * [Ross Butler](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/R/Images/Ross%20Butler.jpg)
 * [Ross Douglas Noble](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/R/Images/Ross%20Douglas%20Noble.jpg)
 * [Ross Marquand](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/R/Images/Ross%20Marquand.jpg)
+* [Ross Mathews](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/R/Images/Ross%20Mathews.jpg)
 * [Ross McCall](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/R/Images/Ross%20McCall.jpg)
 * [Ross Noble](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/R/Images/Ross%20Noble.jpg)
 * [Ross Partridge](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/R/Images/Ross%20Partridge.jpg)

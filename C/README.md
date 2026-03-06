@@ -1,4 +1,4 @@
-# Kometa People Images - Original - C (720 Images)
+# Kometa People Images - Original - C (722 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -108,6 +108,7 @@
 * [Carrie-Anne Moss](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Carrie-Anne%20Moss.jpg)
 * [Carroll Baker](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Carroll%20Baker.jpg)
 * [Carrot Top](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Carrot%20Top.jpg)
+* [Carson Kressley](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Carson%20Kressley.jpg)
 * [Cary Elwes](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Cary%20Elwes.jpg)
 * [Cary Grant](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Cary%20Grant.jpg)
 * [Cary Joji Fukunaga](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Cary%20Joji%20Fukunaga.jpg)
@@ -303,6 +304,7 @@
 * [Cheyenne Jackson](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Cheyenne%20Jackson.jpg)
 * [Cheyenne Rushing](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Cheyenne%20Rushing.jpg)
 * [Chi McBride](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Chi%20McBride.jpg)
+* [Chiaki Kobayashi](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Chiaki%20Kobayashi.jpg)
 * [Chiaki Kuriyama](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Chiaki%20Kuriyama.jpg)
 * [Chico Marx](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Chico%20Marx.jpg)
 * [Chidi Ajufo](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Chidi%20Ajufo.jpg)
