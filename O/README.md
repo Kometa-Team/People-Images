@@ -1,4 +1,4 @@
-# Kometa People Images - Original - O (99 Images)
+# Kometa People Images - Original - O (100 Images)
 ![Grid](grid.jpg)
 
 * [O'Shea Jackson Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/O%27Shea%20Jackson%20Jr..jpg)
@@ -81,6 +81,7 @@
 * [Orlando Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/Orlando%20Jones.jpg)
 * [Orny Adams](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/Orny%20Adams.jpg)
 * [Orson Welles](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/Orson%20Welles.jpg)
+* [Osamu Saka](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/Osamu%20Saka.jpg)
 * [Oscar Avila](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/Oscar%20Avila.jpg)
 * [Oscar Gale](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/Oscar%20Gale.jpg)
 * [Oscar Isaac](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/Oscar%20Isaac.jpg)

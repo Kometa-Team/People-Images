@@ -1,4 +1,4 @@
-# Kometa People Images - Original - V (130 Images)
+# Kometa People Images - Original - V (131 Images)
 ![Grid](grid.jpg)
 
 * [V.J. Foster](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/V/Images/V.J.%20Foster.jpg)
@@ -116,6 +116,7 @@
 * [Virginia Kiser](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/V/Images/Virginia%20Kiser.jpg)
 * [Virginia Madsen](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/V/Images/Virginia%20Madsen.jpg)
 * [Virginia North](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/V/Images/Virginia%20North.jpg)
+* [Virginie Efira](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/V/Images/Virginie%20Efira.jpg)
 * [Vishal Bhardwaj](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/V/Images/Vishal%20Bhardwaj.jpg)
 * [Vito Gerbino](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/V/Images/Vito%20Gerbino.jpg)
 * [Vitor Belfort](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/V/Images/Vitor%20Belfort.jpg)
