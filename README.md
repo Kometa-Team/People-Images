@@ -1,4 +1,4 @@
-# Kometa People Images - Original (11393 Images)
+# Kometa People Images - Original (11394 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -2969,7 +2969,7 @@
 * [Débora Nascimento](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/D%C3%A9bora%20Nascimento.jpg)
 * [Díana Bermudez](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/D%C3%ADana%20Bermudez.jpg)
 </details>
-<details><summary><a href="E">E (402 Images)</a></summary>
+<details><summary><a href="E">E (403 Images)</a></summary>
 
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/E.G.%20Marshall.jpg)
 * [E.J. Bonilla](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/E.J.%20Bonilla.jpg)
@@ -3105,6 +3105,7 @@
 * [Elizabeth Healey](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/Elizabeth%20Healey.jpg)
 * [Elizabeth Hurley](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/Elizabeth%20Hurley.jpg)
 * [Elizabeth Judd](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/Elizabeth%20Judd.jpg)
+* [Elizabeth Lail](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/Elizabeth%20Lail.jpg)
 * [Elizabeth Lamboy-Wilson](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/Elizabeth%20Lamboy-Wilson.jpg)
 * [Elizabeth Martin](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/Elizabeth%20Martin.jpg)
 * [Elizabeth McGovern](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/Elizabeth%20McGovern.jpg)
