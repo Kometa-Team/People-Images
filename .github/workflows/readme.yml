@@ -11,13 +11,13 @@ jobs:
     steps:
 
       - name: Check Out Auto Readme Repo
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           repository: Kometa-Team/People-Auto-Readme
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Check Out Images Repo
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           path: imagerepo
 
