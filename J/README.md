@@ -1,4 +1,4 @@
-# Kometa People Images - Original - J (1563 Images)
+# Kometa People Images - Original - J (1565 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/J%27Dvonte.jpg)
@@ -772,6 +772,8 @@
 * [Jim Wynorski](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jim%20Wynorski.jpg)
 * [Jimeoin](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jimeoin.jpg)
 * [Jimi Stanton](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jimi%20Stanton.jpg)
+* [Jimin Zhang](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jimin%20Zhang.jpg)
+* [Jimin](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jimin.jpg)
 * [Jimmi Simpson](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jimmi%20Simpson.jpg)
 * [Jimmy Ahrens](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jimmy%20Ahrens.jpg)
 * [Jimmy Carr](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jimmy%20Carr.jpg)
