@@ -1,10 +1,10 @@
-# Kometa People Images - Original (13032 Images)
+# Kometa People Images - Original (13033 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
 * ['Weird Al' Yankovic](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/'/Images/%27Weird%20Al%27%20Yankovic.jpg)
 </details>
-<details><summary><a href="A">A (1065 Images)</a></summary>
+<details><summary><a href="A">A (1066 Images)</a></summary>
 
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/A/Images/A.%20Edward%20Sutherland.jpg)
 * [A. Michael Baldwin](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/A/Images/A.%20Michael%20Baldwin.jpg)
@@ -334,6 +334,7 @@
 * [Alex Proyas](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/A/Images/Alex%20Proyas.jpg)
 * [Alex Rocco](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/A/Images/Alex%20Rocco.jpg)
 * [Alex Ross Perry](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/A/Images/Alex%20Ross%20Perry.jpg)
+* [Alex Rudzinski](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/A/Images/Alex%20Rudzinski.jpg)
 * [Alex Russell](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/A/Images/Alex%20Russell.jpg)
 * [Alex Sharp](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/A/Images/Alex%20Sharp.jpg)
 * [Alex Sharpe](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/A/Images/Alex%20Sharpe.jpg)
