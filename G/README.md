@@ -1,5 +1,4 @@
 # Kometa People Images - Original - G (431 Images)
-![Grid](grid.jpg)
 
 * [G-Eazy](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/G/Images/G-Eazy.jpg)
 * [G. D. Spradlin](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/G/Images/G.%20D.%20Spradlin.jpg)

@@ -1,5 +1,4 @@
 # Kometa People Images - Original - P (514 Images)
-![Grid](grid.jpg)
 
 * [P.H. Moriarty](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/P/Images/P.H.%20Moriarty.jpg)
 * [P.J. Byrne](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/P/Images/P.J.%20Byrne.jpg)

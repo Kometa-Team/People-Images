@@ -1,5 +1,4 @@
 # Kometa People Images - Original - Á (4 Images)
-![Grid](grid.jpg)
 
 * [Álex Angulo](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/Á/Images/%C3%81lex%20Angulo.jpg)
 * [Álvaro Augustín](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/Á/Images/%C3%81lvaro%20August%C3%ADn.jpg)

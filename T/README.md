@@ -1,5 +1,4 @@
 # Kometa People Images - Original - T (637 Images)
-![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/T.%20J.%20Miller.jpg)
 * [T. Love](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/T/Images/T.%20Love.jpg)
