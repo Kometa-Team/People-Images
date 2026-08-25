@@ -1,4 +1,4 @@
-# Kometa People Images - Original (original) - X (7 Images)
+# Kometa People Images - Original - X (7 Images)
 
 * [Xander Berkeley](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/X/Images/Xander%20Berkeley.jpg)
 * [Xavier Gens](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/X/Images/Xavier%20Gens.jpg)

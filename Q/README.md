@@ -1,4 +1,4 @@
-# Kometa People Images - Original (original) - Q (12 Images)
+# Kometa People Images - Original - Q (12 Images)
 
 * [Queen Latifah](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/Q/Images/Queen%20Latifah.jpg)
 * [Quentin Dupieux](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/Q/Images/Quentin%20Dupieux.jpg)

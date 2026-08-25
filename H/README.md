@@ -1,4 +1,4 @@
-# Kometa People Images - Original (original) - H (346 Images)
+# Kometa People Images - Original - H (346 Images)
 
 * [H. C. Potter](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/H.%20C.%20Potter.jpg)
 * [H. G. Wells](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/H.%20G.%20Wells.jpg)

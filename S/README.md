@@ -1,4 +1,4 @@
-# Kometa People Images - Original (original) - S (946 Images)
+# Kometa People Images - Original - S (946 Images)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/S/Images/S.%20S.%20Rajamouli.jpg)
 * [SUGA](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/S/Images/SUGA.jpg)

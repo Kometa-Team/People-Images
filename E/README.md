@@ -1,4 +1,4 @@
-# Kometa People Images - Original (original) - E (459 Images)
+# Kometa People Images - Original - E (459 Images)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/E.G.%20Marshall.jpg)
 * [E.J. Bonilla](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/E/Images/E.J.%20Bonilla.jpg)
