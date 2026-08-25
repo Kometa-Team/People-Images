@@ -1,4 +1,4 @@
-# Kometa People Images - Original (13037 Images)
+# Kometa People Images - Original (13035 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -4515,7 +4515,7 @@
 * [Günter Lamprecht](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/G/Images/G%C3%BCnter%20Lamprecht.jpg)
 * [Günther Stoll](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/G/Images/G%C3%BCnther%20Stoll.jpg)
 </details>
-<details><summary><a href="H">H (346 Images)</a></summary>
+<details><summary><a href="H">H (345 Images)</a></summary>
 
 * [H. C. Potter](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/H.%20C.%20Potter.jpg)
 * [H. G. Wells](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/H.%20G.%20Wells.jpg)
@@ -4656,7 +4656,6 @@
 * [Hayao Miyazaki](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Hayao%20Miyazaki.jpg)
 * [Hayashibara Megumi](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Hayashibara%20Megumi.jpg)
 * [Hayden Christensen](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Hayden%20Christensen.jpg)
-* [Hayden Schlossberg](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Hayden%20Schlossberg.jpg)
 * [Hayes MacArthur](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Hayes%20MacArthur.jpg)
 * [Hayley Atwell](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Hayley%20Atwell.jpg)
 * [Hayley Gagner](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Hayley%20Gagner.jpg)
@@ -5025,7 +5024,7 @@
 * [Izabella Scorupco](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/I/Images/Izabella%20Scorupco.jpg)
 * [Izo Hashimoto](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/I/Images/Izo%20Hashimoto.jpg)
 </details>
-<details><summary><a href="J">J (1566 Images)</a></summary>
+<details><summary><a href="J">J (1565 Images)</a></summary>
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/J%27Dvonte.jpg)
 * [J. A. Bayona](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/J.%20A.%20Bayona.jpg)
@@ -6214,7 +6213,6 @@
 * [Jon Hamm](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jon%20Hamm.jpg)
 * [Jon Heder](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jon%20Heder.jpg)
 * [Jon Huertas](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jon%20Huertas.jpg)
-* [Jon Hurwitz](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jon%20Hurwitz.jpg)
 * [Jon Jashni](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jon%20Jashni.jpg)
 * [Jon Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jon%20Jones.jpg)
 * [Jon Kilik](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/Jon%20Kilik.jpg)

@@ -1,4 +1,4 @@
-# Kometa People Images - Original - H (346 Images)
+# Kometa People Images - Original - H (345 Images)
 
 * [H. C. Potter](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/H.%20C.%20Potter.jpg)
 * [H. G. Wells](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/H.%20G.%20Wells.jpg)
@@ -139,7 +139,6 @@
 * [Hayao Miyazaki](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Hayao%20Miyazaki.jpg)
 * [Hayashibara Megumi](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Hayashibara%20Megumi.jpg)
 * [Hayden Christensen](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Hayden%20Christensen.jpg)
-* [Hayden Schlossberg](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Hayden%20Schlossberg.jpg)
 * [Hayes MacArthur](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Hayes%20MacArthur.jpg)
 * [Hayley Atwell](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Hayley%20Atwell.jpg)
 * [Hayley Gagner](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/H/Images/Hayley%20Gagner.jpg)
