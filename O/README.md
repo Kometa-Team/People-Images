@@ -1,4 +1,4 @@
-# Kometa People Images - Original - O (124 Images)
+# Kometa People Images - Original (original) - O (124 Images)
 
 * [O'Shea Jackson Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/O%27Shea%20Jackson%20Jr..jpg)
 * [O-T Fagbenle](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/O/Images/O-T%20Fagbenle.jpg)

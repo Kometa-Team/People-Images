@@ -1,4 +1,4 @@
-# Kometa People Images - Original - D (801 Images)
+# Kometa People Images - Original (original) - D (801 Images)
 
 * [D. A. Pennebaker](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/D.%20A.%20Pennebaker.jpg)
 * [D. David Morin](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/D.%20David%20Morin.jpg)

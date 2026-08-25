@@ -1,4 +1,4 @@
-# Kometa People Images - Original (13035 Images)
+# Kometa People Images - Original (original) (13035 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 

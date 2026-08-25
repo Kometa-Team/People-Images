@@ -1,4 +1,4 @@
-# Kometa People Images - Original - B (656 Images)
+# Kometa People Images - Original (original) - B (656 Images)
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/B/Images/B.F.%20Blinn.jpg)
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/B/Images/B.J.%20Penn.jpg)

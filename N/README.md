@@ -1,4 +1,4 @@
-# Kometa People Images - Original - N (356 Images)
+# Kometa People Images - Original (original) - N (356 Images)
 
 * [N. Linguswamy](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/N/Images/N.%20Linguswamy.jpg)
 * [N.T. Rama Rao Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/N/Images/N.T.%20Rama%20Rao%20Jr..jpg)

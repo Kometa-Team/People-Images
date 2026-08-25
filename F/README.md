@@ -1,4 +1,4 @@
-# Kometa People Images - Original - F (256 Images)
+# Kometa People Images - Original (original) - F (256 Images)
 
 * [F. Gary Gray](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/F/Images/F.%20Gary%20Gray.jpg)
 * [F. Murray Abraham](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/F/Images/F.%20Murray%20Abraham.jpg)

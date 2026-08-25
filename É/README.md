@@ -1,4 +1,4 @@
-# Kometa People Images - Original - É (3 Images)
+# Kometa People Images - Original (original) - É (3 Images)
 
 * [Élodie Yung](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/É/Images/%C3%89lodie%20Yung.jpg)
 * [Éric Rohmer](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/É/Images/%C3%89ric%20Rohmer.jpg)

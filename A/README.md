@@ -1,4 +1,4 @@
-# Kometa People Images - Original - A (1066 Images)
+# Kometa People Images - Original (original) - A (1066 Images)
 
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/A/Images/A.%20Edward%20Sutherland.jpg)
 * [A. Michael Baldwin](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/A/Images/A.%20Michael%20Baldwin.jpg)

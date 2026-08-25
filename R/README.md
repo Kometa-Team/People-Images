@@ -1,4 +1,4 @@
-# Kometa People Images - Original - R (825 Images)
+# Kometa People Images - Original (original) - R (825 Images)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/R/Images/R.%20Lee%20Ermey.jpg)
 * [R. Madhavan](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/R/Images/R.%20Madhavan.jpg)

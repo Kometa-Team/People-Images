@@ -1,4 +1,4 @@
-# Kometa People Images - Original - J (1566 Images)
+# Kometa People Images - Original (original) - J (1566 Images)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/J%27Dvonte.jpg)
 * [J. A. Bayona](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/J/Images/J.%20A.%20Bayona.jpg)

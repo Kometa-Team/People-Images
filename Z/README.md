@@ -1,4 +1,4 @@
-# Kometa People Images - Original - Z (62 Images)
+# Kometa People Images - Original (original) - Z (62 Images)
 
 * [Zac Efron](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/Z/Images/Zac%20Efron.jpg)
 * [Zach Baylin](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/Z/Images/Zach%20Baylin.jpg)
