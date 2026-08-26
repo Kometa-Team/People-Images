@@ -1,4 +1,4 @@
-# Kometa People Images - Original - Z (66 Images)
+# Kometa People Images - Original - Z (67 Images)
 
 * [Zac Efron](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/Z/Images/Zac%20Efron.jpg)
 * [Zach Baylin](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/Z/Images/Zach%20Baylin.jpg)
@@ -46,6 +46,7 @@
 * [Zenobia Shroff](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/Z/Images/Zenobia%20Shroff.jpg)
 * [Zhang Fengyi](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/Z/Images/Zhang%20Fengyi.jpg)
 * [Zhang Linghe](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/Z/Images/Zhang%20Linghe.jpg)
+* [Zhang Miaoyi](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/Z/Images/Zhang%20Miaoyi.jpg)
 * [Zhang Ruonan](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/Z/Images/Zhang%20Ruonan.jpg)
 * [Zhang Yanqi](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/Z/Images/Zhang%20Yanqi.jpg)
 * [Zhang Yimou](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/Z/Images/Zhang%20Yimou.jpg)
