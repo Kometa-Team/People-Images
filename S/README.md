@@ -1,4 +1,4 @@
-# Kometa People Images - Original - S (956 Images)
+# Kometa People Images - Original - S (957 Images)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/S/Images/S.%20S.%20Rajamouli.jpg)
 * [SUGA](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/S/Images/SUGA.jpg)
@@ -641,6 +641,7 @@
 * [Sophie Levy](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/S/Images/Sophie%20Levy.jpg)
 * [Sophie Marceau](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/S/Images/Sophie%20Marceau.jpg)
 * [Sophie McShera](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/S/Images/Sophie%20McShera.jpg)
+* [Sophie Ngan Chin-Man](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/S/Images/Sophie%20Ngan%20Chin-Man.jpg)
 * [Sophie Okonedo](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/S/Images/Sophie%20Okonedo.jpg)
 * [Sophie Rundle](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/S/Images/Sophie%20Rundle.jpg)
 * [Sophie Thatcher](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/S/Images/Sophie%20Thatcher.jpg)
