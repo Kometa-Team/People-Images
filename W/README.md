@@ -1,4 +1,4 @@
-# Kometa People Images - Original - W (246 Images)
+# Kometa People Images - Original - W (247 Images)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/W/Images/W.%20Bruce%20Cameron.jpg)
 * [W. Earl Brown](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/W/Images/W.%20Earl%20Brown.jpg)
@@ -246,3 +246,4 @@
 * [Wyatt White](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/W/Images/Wyatt%20White.jpg)
 * [Wyck Godfrey](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/W/Images/Wyck%20Godfrey.jpg)
 * [Wynn Everett](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/W/Images/Wynn%20Everett.jpg)
+* [Władysław Szpilman](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/W/Images/W%C5%82adys%C5%82aw%20Szpilman.jpg)
