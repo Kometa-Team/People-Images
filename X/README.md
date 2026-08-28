@@ -1,9 +1,7 @@
-# Kometa People Images - Original - X (14 Images)
+# Kometa People Images - Original - X (12 Images)
 
 * [Xander Berkeley](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/X/Images/Xander%20Berkeley.jpg)
 * [Xavier Gens](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/X/Images/Xavier%20Gens.jpg)
-* [Xavier Jiménez](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/X/Images/Xavier%20Jim%C3%A9nez.jpg)
-* [Xavyer Ureña](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/X/Images/Xavyer%20Ure%C3%B1a.jpg)
 * [Xiao Zhan](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/X/Images/Xiao%20Zhan.jpg)
 * [Xie Miao](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/X/Images/Xie%20Miao.jpg)
 * [Ximena Rubio](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/X/Images/Ximena%20Rubio.jpg)
