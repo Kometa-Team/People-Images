@@ -1,4 +1,4 @@
-# Kometa People Images - Original - V (158 Images)
+# Kometa People Images - Original - V (159 Images)
 
 * [V.J. Foster](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/V/Images/V.J.%20Foster.jpg)
 * [Vaibhav Sethia](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/V/Images/Vaibhav%20Sethia.jpg)
@@ -119,6 +119,7 @@
 * [Vincent Tong](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/V/Images/Vincent%20Tong.jpg)
 * [Vincent Ventresca](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/V/Images/Vincent%20Ventresca.jpg)
 * [Vincent Wong](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/V/Images/Vincent%20Wong.jpg)
+* [Vincent Zhao Wenzhuo](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/V/Images/Vincent%20Zhao%20Wenzhuo.jpg)
 * [Vincent van Hinte](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/V/Images/Vincent%20van%20Hinte.jpg)
 * [Vincente Minnelli](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/V/Images/Vincente%20Minnelli.jpg)
 * [Vincenzo Cerami](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/V/Images/Vincenzo%20Cerami.jpg)

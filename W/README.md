@@ -1,4 +1,4 @@
-# Kometa People Images - Original - W (247 Images)
+# Kometa People Images - Original - W (248 Images)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/W/Images/W.%20Bruce%20Cameron.jpg)
 * [W. Earl Brown](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/W/Images/W.%20Earl%20Brown.jpg)
@@ -47,6 +47,7 @@
 * [Walton Goggins](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/W/Images/Walton%20Goggins.jpg)
 * [Wan Qian](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/W/Images/Wan%20Qian.jpg)
 * [Wanda Sykes](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/W/Images/Wanda%20Sykes.jpg)
+* [Wang Anyu](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/W/Images/Wang%20Anyu.jpg)
 * [Wang Bing](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/W/Images/Wang%20Bing.jpg)
 * [Wang Churan](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/W/Images/Wang%20Churan.jpg)
 * [Wang Haozhen](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/W/Images/Wang%20Haozhen.jpg)
