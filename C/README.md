@@ -1,4 +1,4 @@
-# Kometa People Images - Original - C (939 Images)
+# Kometa People Images - Original - C (940 Images)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/C.%20Robert%20Cargill.jpg)
 * [C. S. Forester](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/C.%20S.%20Forester.jpg)
@@ -901,6 +901,7 @@
 * [Craig T. Nelson](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Craig%20T.%20Nelson.jpg)
 * [Craig Tate](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Craig%20Tate.jpg)
 * [Craig Zobel](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Craig%20Zobel.jpg)
+* [Crauford Kent](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Crauford%20Kent.jpg)
 * [Cree Cicchino](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Cree%20Cicchino.jpg)
 * [Cree Summer](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Cree%20Summer.jpg)
 * [Crispin Bonham-Carter](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Crispin%20Bonham-Carter.jpg)
