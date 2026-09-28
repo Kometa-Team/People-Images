@@ -1,4 +1,4 @@
-# Kometa People Images - Original - D (896 Images)
+# Kometa People Images - Original - D (897 Images)
 
 * [D'Arcy Carden](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/D%27Arcy%20Carden.jpg)
 * [D'Mile](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/D%27Mile.jpg)
@@ -24,6 +24,7 @@
 * [Dacre Montgomery](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Dacre%20Montgomery.jpg)
 * [Dafne Keen](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Dafne%20Keen.jpg)
 * [Dai Gaozheng](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Dai%20Gaozheng.jpg)
+* [Dai Sato](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Dai%20Sato.jpg)
 * [Dai Xu](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Dai%20Xu.jpg)
 * [Daihachi Yoshida](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Daihachi%20Yoshida.jpg)
 * [Daijirô Harada](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/D/Images/Daijir%C3%B4%20Harada.jpg)
