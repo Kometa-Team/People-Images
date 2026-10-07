@@ -1,4 +1,4 @@
-# Kometa People Images - Original - B (728 Images)
+# Kometa People Images - Original - B (729 Images)
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/B/Images/B.F.%20Blinn.jpg)
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/B/Images/B.J.%20Penn.jpg)
@@ -422,6 +422,7 @@
 * [Bonnie Wright](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/B/Images/Bonnie%20Wright.jpg)
 * [Bora Dağtekin](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/B/Images/Bora%20Da%C4%9Ftekin.jpg)
 * [Borden Chase](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/B/Images/Borden%20Chase.jpg)
+* [Boris Barnet](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/B/Images/Boris%20Barnet.jpg)
 * [Boris Karloff](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/B/Images/Boris%20Karloff.jpg)
 * [Boris Kodjoe](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/B/Images/Boris%20Kodjoe.jpg)
 * [Boris McGiver](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/B/Images/Boris%20McGiver.jpg)
