@@ -1,4 +1,4 @@
-# Kometa People Images - Original - C (946 Images)
+# Kometa People Images - Original - C (947 Images)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/C.%20Robert%20Cargill.jpg)
 * [C. S. Forester](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/C.%20S.%20Forester.jpg)
@@ -246,6 +246,7 @@
 * [Chae Jong-hyeop](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Chae%20Jong-hyeop.jpg)
 * [Chae Jung-an](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Chae%20Jung-an.jpg)
 * [Chae Seo-an](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Chae%20Seo-an.jpg)
+* [Chae Soo-bin](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Chae%20Soo-bin.jpg)
 * [Chafurin](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Chafurin.jpg)
 * [Chafuurin](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Chafuurin.jpg)
 * [Chaim Topol](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/C/Images/Chaim%20Topol.jpg)
