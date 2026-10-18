@@ -1,4 +1,4 @@
-# Kometa People Images - Original - U (36 Images)
+# Kometa People Images - Original - U (37 Images)
 
 * [Uchida Maaya](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/U/Images/Uchida%20Maaya.jpg)
 * [Uchida Yuuma](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/U/Images/Uchida%20Yuuma.jpg)
@@ -20,6 +20,7 @@
 * [Uma Thurman](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/U/Images/Uma%20Thurman.jpg)
 * [Umberto Lenzi](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/U/Images/Umberto%20Lenzi.jpg)
 * [Umehara Yuuichirou](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/U/Images/Umehara%20Yuuichirou.jpg)
+* [Umeka Shoji](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/U/Images/Umeka%20Shoji.jpg)
 * [Umit Ulgen](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/U/Images/Umit%20Ulgen.jpg)
 * [Una Brandon-Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/U/Images/Una%20Brandon-Jones.jpg)
 * [Unplayed Jack Nicholson](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/U/Images/Unplayed%20Jack%20Nicholson.jpg)
