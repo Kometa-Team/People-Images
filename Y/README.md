@@ -1,4 +1,4 @@
-# Kometa People Images - Original - Y (220 Images)
+# Kometa People Images - Original - Y (221 Images)
 
 * [Y. Ravi Shankar](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/Y/Images/Y.%20Ravi%20Shankar.jpg)
 * [Y. Vijaya](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/Y/Images/Y.%20Vijaya.jpg)
@@ -189,6 +189,7 @@
 * [Yury Olesha](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/Y/Images/Yury%20Olesha.jpg)
 * [Yusei Yagi](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/Y/Images/Yusei%20Yagi.jpg)
 * [Yusuke Kobayashi](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/Y/Images/Yusuke%20Kobayashi.jpg)
+* [Yuta Furukawa](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/Y/Images/Yuta%20Furukawa.jpg)
 * [Yuta Kobayashi](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/Y/Images/Yuta%20Kobayashi.jpg)
 * [Yutaka Matsushige](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/Y/Images/Yutaka%20Matsushige.jpg)
 * [Yutaka Nakano](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/Y/Images/Yutaka%20Nakano.jpg)

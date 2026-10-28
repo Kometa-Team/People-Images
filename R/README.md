@@ -1,4 +1,4 @@
-# Kometa People Images - Original - R (939 Images)
+# Kometa People Images - Original - R (940 Images)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/R/Images/R.%20Lee%20Ermey.jpg)
 * [R. Madhavan](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/R/Images/R.%20Madhavan.jpg)
@@ -419,6 +419,7 @@
 * [Rie Miyazawa](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/R/Images/Rie%20Miyazawa.jpg)
 * [Rie Murakawa](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/R/Images/Rie%20Murakawa.jpg)
 * [Rie Takahashi](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/R/Images/Rie%20Takahashi.jpg)
+* [Rie Tomosaka](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/R/Images/Rie%20Tomosaka.jpg)
 * [Rieko Miura](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/R/Images/Rieko%20Miura.jpg)
 * [Rieko Takahashi](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/R/Images/Rieko%20Takahashi.jpg)
 * [Rihanna](https://raw.githubusercontent.com/Kometa-Team/People-Images/master/R/Images/Rihanna.jpg)
